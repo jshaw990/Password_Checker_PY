@@ -7,7 +7,7 @@ This script utilizes SHA1 hashing to ensure security is present through the requ
 [Jayden Shaw](https://github.com/jshaw990/)
 
 ## Screenshot
-[DEMO](https://github.com/jshaw990/Password_Checker_PY/blob/master/docs/screenshot.png)
+![DEMO](https://github.com/jshaw990/Password_Checker_PY/blob/master/docs/screenshot.png)
 
 ## Installation
 1. Fork/Clone [GitHub Repository](https://github.com/jshaw990/Password_Checker_PY)
